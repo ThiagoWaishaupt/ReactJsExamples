@@ -12,7 +12,7 @@ export default function Home() {
             <NextPage next="/layout_2" back="/layout_5" />
             <Container>
                 <Header>
-                    <img src={logo} alt="Logo" height="80" width="80" />
+                    <img src={logo} alt="Logo" height="81" width="81" />
 
                     <div>
                         <p>Resources</p>
